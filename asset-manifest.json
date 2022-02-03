@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vitrina/static/css/main.22d49e9f.css",
-    "main.js": "/vitrina/static/js/main.97ab9b24.js",
+    "main.js": "/vitrina/static/js/main.b323b4d5.js",
     "index.html": "/vitrina/index.html",
     "main.22d49e9f.css.map": "/vitrina/static/css/main.22d49e9f.css.map",
-    "main.97ab9b24.js.map": "/vitrina/static/js/main.97ab9b24.js.map"
+    "main.b323b4d5.js.map": "/vitrina/static/js/main.b323b4d5.js.map"
   },
   "entrypoints": [
     "static/css/main.22d49e9f.css",
-    "static/js/main.97ab9b24.js"
+    "static/js/main.b323b4d5.js"
   ]
 }
